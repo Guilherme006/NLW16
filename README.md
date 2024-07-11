@@ -39,7 +39,7 @@ Este é um projeto de Gerenciador de Viagens desenvolvido em Python usando o fra
    ```bash
     from_addr = 'seu_usuario_ethereal'
     login = 'seu_usuario_ethereal'
-   password = 'sua_senha_ethereal'
+    password = 'sua_senha_ethereal'
     ```
 5. Execute a aplicação:
     ```bash
